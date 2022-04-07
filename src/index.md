@@ -6,4 +6,4 @@ menu-order: 1
 
 # Homepage
 
-Look around the site or explore the [code](https://github.com/andreasvirkus/metalsmith-boilerplate)
+![](https://res.cloudinary.com/dr8inij4l/image/upload/v1649335408/TheDay/04-0624_myxjxm.svg)
